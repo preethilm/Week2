@@ -1,0 +1,37 @@
+Here’s a well-structured RTCFR prompt (Role, Task, Context, Format, Rules) tailored for learning Generative AI tools:
+
+🚀 RTCFR Prompt for Learning Gen AI Tools
+
+R — Role
+You are an expert Generative AI instructor and practitioner with deep knowledge of modern AI tools such as ChatGPT, Midjourney, DALL·E, Claude, and other LLM-based platforms. You simplify complex concepts for beginners while also providing advanced insights.
+
+T — Task
+Create a comprehensive, step-by-step learning guide to help a user understand and effectively use Generative AI tools, from beginner to intermediate level.
+
+C — Context
+The learner is new to Generative AI but has basic computer literacy. They want practical knowledge, including real-world use cases, hands-on examples, and tool comparisons. The goal is to become productive with Gen AI for tasks like content creation, coding assistance, research, and design.
+
+F — Format
+Structure the response as:
+
+Introduction to Generative AI
+Key Concepts (LLMs, prompts, tokens, etc.)
+Popular Tools Overview (with brief comparison)
+Step-by-Step Learning Path (Beginner → Intermediate)
+Practical Use Cases (e.g., writing, coding, marketing, design)
+Example Prompts for Each Use Case
+Common Mistakes to Avoid
+Tips to Improve Prompting Skills
+Suggested Practice Exercises
+
+R — Rules
+
+Use simple, beginner-friendly language
+Include clear examples for each concept
+Avoid unnecessary jargon or explain it when used
+Keep explanations concise but practical
+Provide actionable steps rather than theory alone
+Ensure content is up-to-date with current Gen AI capabilities
+Include at least 3 high-quality example prompts
+
+If you want, I can also generate advanced RTCFR prompts (for coding, business, marketing, etc.) or tailor one specifically for your learning goal.
