@@ -1,1 +1,15 @@
-
+{
+  "video_generation_config": {
+    "model": "Veo",
+    "prompt": "A cinematic, high-definition wide shot of a lush, emerald-green tropical forest. Dozens of vibrant, multi-colored parrots (scarlet macaws, blue-and-gold macaws, and bright green amazons) take flight from the dense canopy, their wings fluttering realistically. The camera performs a smooth, slow crane shot upward, following the parrots as they emerge from the shadows of the foliage. The scene transitions from the deep greens of the forest to a vast, crystal-clear blue sky. In the background, a magnificent golden sun rises over the horizon, casting a warm, lens-flare glow across the frame. The overall atmosphere is majestic and awe-inspiring.",
+    "audio_description": "The audio begins with serene, ambient forest sounds—chirping insects and distant bird calls—layered with a soft, minimalist woodwind melody. As the parrots break toward the sky and the sun appears, the music swells into a bright, rhythmic, and cheerful orchestral crescendo with uplifting strings and light percussion to evoke a sense of joy.",
+    "text_overlay": {
+      "text": "God gift",
+      "style": "Elegant, gold-serif typography",
+      "position": "Centered at the start, fading out as the birds fly upward"
+    },
+    "duration": "10-15 seconds",
+    "resolution": "1080p",
+    "aspect_ratio": "16:9"
+  }
+}
