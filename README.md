@@ -1,4 +1,6 @@
 # Week2
 week2 assignments
-Video gen :
+Video genertion :
 Tool - Google Flow
+Image generation:
+Tool - Google Gemini
