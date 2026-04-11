@@ -1,0 +1,45 @@
+{
+  "subject": {
+    "identity": "Child",
+    "age_range": "4-6 years old",
+    "expression": "Serene and divine smile",
+    "ethnicity": "South Asian",
+    "pose": "Standing upright with the 'Vel' in the right hand, left hand on hip (Shakti Vel pose)"
+  },
+  "character_theme": {
+    "deity": "Lord Murugan",
+    "alias": "Bala Murugan",
+    "iconography": {
+      "weapon": {
+        "name": "Vel",
+        "material": "Gold-plated brass",
+        "details": "Leaf-shaped spearhead with 'Om' engraving"
+      },
+      "mount_symbolism": "Peacock feather tucked into the hair or a peacock in the background",
+      "vibhuti": "Three horizontal sacred ash lines on forehead with a red kumkum bindu"
+    }
+  },
+  "attire_and_ornaments": {
+    "clothing": {
+      "type": "Dhoti / Veshti",
+      "color": "Saffron or Mustard Yellow",
+      "material": "Silk with gold zari border"
+    },
+    "jewelry": [
+      { "item": "Kireetam", "description": "Small ornate golden crown" },
+      { "item": "Haaram", "description": "Layered gold necklaces and a rudraksha mala" },
+      { "item": "Keyuram", "description": "Golden armlets on upper arms" },
+      { "item": "Udiyanam", "description": "Gold waist belt" }
+    ]
+  },
+  "environment": {
+    "setting": "Traditional temple backdrop or lush green hills (Palani hills style)",
+    "lighting": "Warm, ethereal glow with soft rim lighting",
+    "atmospheric_effects": "Subtle incense smoke and marigold flower petals at the feet"
+  },
+  "image_specs": {
+    "aspect_ratio": "4:5",
+    "style": "Hyper-realistic photography",
+    "color_palette": ["#FF9933", "#FFD700", "#FFFFFF", "#2E8B57"]
+  }
+}
